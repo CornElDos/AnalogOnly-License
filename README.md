@@ -26,8 +26,6 @@ The AnalogOnly License is a licensing model where the artist commits to:
 2. Permanently deleting all digital copies, including cloud storage and local files.
 3. Ensuring that only the physical copy exists.
 
-For more information, read the [license document](LICENSE.md).
-
 ---
 
 ## Why Choose the AnalogOnly License?
